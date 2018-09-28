@@ -2,4 +2,14 @@
 
 # Keras vs. PyTorch - Alien vs. Predator recognition with transfer learning
 
-Here you can find notebooks related to deepsense.ai's blog post Keras vs. PyTorch - Alien vs. Predator recognition with transfer learning(lynk).
+Here you can find notebooks related to deepsense.ai's blog post Keras vs. PyTorch - Alien vs. Predator recognition with transfer learning.
+
+Requirements:
+  * h5py==2.8.0
+  * jupyter==1.0.0
+  * Keras==2.2.2
+  * matplotlib==2.2.3
+  * Pillow==5.2.0
+  * tensorflow==1.10.1
+  * torch==0.4.1
+  * torchvision==0.2.1
