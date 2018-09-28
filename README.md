@@ -1,5 +1,3 @@
-<img src="https://gist.githubusercontent.com/jakubczakon/10e5eb3d5024cc30cdb056d5acd3d92f/raw/5c464c16ccbc7150b4025e0a2a05b84ab99a7bc3/logo_DS_AI.png" alt="Drawing" style="width: 600px;"/>
-
 # Keras vs. PyTorch - Alien vs. Predator recognition with transfer learning
 
 XXX PUT this transfer learning picture XXX
@@ -17,9 +15,9 @@ See also the [upcoming webinar (10 Oct 2018)](https://www.crowdcast.io/e/KerasVe
 See also: [Alien vs. Predator images | Kaggle](https://www.kaggle.com/pmigdal/alien-vs-predator-images).
 In general, there are 447 images for each class, split into two classes. Examples:
 
-![](imgs/aliens.png)
+![](aliens.png)
 
-![](imgs/predators.png)
+![](predators.png)
 
 # Requirements
 
